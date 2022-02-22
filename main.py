@@ -1,6 +1,6 @@
 import random
 
-name = "Lando"
+name = input("What is your name? ")
 question = "Is this fantasy?"
 answer = ""
 
