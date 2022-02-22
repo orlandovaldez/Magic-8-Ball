@@ -1,7 +1,7 @@
 import random
 
 name = input("What is your name? ")
-question = "Is this fantasy?"
+question = input("What is your question?")
 answer = ""
 
 random_number = random.randint(1,12)
